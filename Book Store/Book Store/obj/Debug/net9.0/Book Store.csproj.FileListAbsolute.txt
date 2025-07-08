@@ -1,0 +1,14 @@
+E:\BackEnd\Book Store Task\Book Store\Book Store\bin\Debug\net9.0\Book Store.exe
+E:\BackEnd\Book Store Task\Book Store\Book Store\bin\Debug\net9.0\Book Store.deps.json
+E:\BackEnd\Book Store Task\Book Store\Book Store\bin\Debug\net9.0\Book Store.runtimeconfig.json
+E:\BackEnd\Book Store Task\Book Store\Book Store\bin\Debug\net9.0\Book Store.dll
+E:\BackEnd\Book Store Task\Book Store\Book Store\bin\Debug\net9.0\Book Store.pdb
+E:\BackEnd\Book Store Task\Book Store\Book Store\obj\Debug\net9.0\Book Store.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd\Book Store Task\Book Store\Book Store\obj\Debug\net9.0\Book Store.AssemblyInfoInputs.cache
+E:\BackEnd\Book Store Task\Book Store\Book Store\obj\Debug\net9.0\Book Store.AssemblyInfo.cs
+E:\BackEnd\Book Store Task\Book Store\Book Store\obj\Debug\net9.0\Book Store.csproj.CoreCompileInputs.cache
+E:\BackEnd\Book Store Task\Book Store\Book Store\obj\Debug\net9.0\Book Store.dll
+E:\BackEnd\Book Store Task\Book Store\Book Store\obj\Debug\net9.0\refint\Book Store.dll
+E:\BackEnd\Book Store Task\Book Store\Book Store\obj\Debug\net9.0\Book Store.pdb
+E:\BackEnd\Book Store Task\Book Store\Book Store\obj\Debug\net9.0\Book Store.genruntimeconfig.cache
+E:\BackEnd\Book Store Task\Book Store\Book Store\obj\Debug\net9.0\ref\Book Store.dll
